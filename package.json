@@ -1,0 +1,21 @@
+{
+  "name": "ketnipz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "16.7.0",
+    "npm": "7.20.3"
+  }
+}
